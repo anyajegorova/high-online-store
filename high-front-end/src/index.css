@@ -119,3 +119,9 @@ a.active hr{
     font-style: italic;
   }
   
+  @media (max-width:640px){
+    a.active{
+      background-color: #181717e7;
+      color: #ffffff;
+    }
+  }
