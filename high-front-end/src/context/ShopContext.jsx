@@ -13,6 +13,10 @@ const ShopContextProvider = (props) => {
     products,
     currency,
     deliveryFee,
+    search,
+    setSearch,
+    showSearch,
+    setShowSearch,
   };
 
   return (
